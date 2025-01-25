@@ -1,10 +1,8 @@
 <script setup>
-import { ref } from 'vue'
-
 </script>
 
 <template>
-  <div>我是app</div>
+  <router-view></router-view>
 </template>
 
 <style scoped></style>
